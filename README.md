@@ -10,7 +10,8 @@ Also average donation column gives us an insight that with categories got the mo
 ## Analysis and Challenges
 * In outcomes based on launch date analysis we noticed that in May, June, and July we have the highest rate of successful campaigns for theater, and that shows that around this time of year, theater fundraising will be successful. 
 In outcomes based on goals if goals are not set too big and optimistic, more likely they will be successful. If the goals are set less than 15k, it will be more likely achieved.
-![Outcomes_vs_Goals] (C:\Users\kkoliji\OneDrive-HagertyGroupLLC\Desktop\resources/Outcomes_vs_Goals.png)
+
+![Outcomes_vs_Goals](C:\Users\kkoliji\OneDrive-HagertyGroupLLC\Desktop\resources/Outcomes_vs_Goals.png)
 
 ## Results 
 
