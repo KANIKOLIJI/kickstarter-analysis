@@ -12,6 +12,7 @@ Also average donation column gives us an insight that with categories got the mo
 In outcomes based on goals if goals are not set too big and optimistic, more likely they will be successful. If the goals are set less than 15k, it will be more likely achieved.
 
 ![Outcomes_vs_Goals](https://github.com/KANIKOLIJI/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch](
 
 ## Results 
 
