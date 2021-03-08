@@ -8,10 +8,10 @@ Also average donation column gives us an insight that with categories got the mo
 
 
 ## Analysis and Challenges
-### Chart1
+
 * The most important analysis that we did were comparing outcomes based on launch date and goals. These two factors give us an idea of when and how to start a campaign to be successful. In outcomes based on goals chart, we can see if the goals are set smaller, the rate of being successful is higher. If we choose to set big goals, it will be very challenging and campaign will fail. It is better to consider 50% and higher successful rates, which will be projects in categories less than 15k, but if we go with higher than 15k, we know that the chance of getting failed is higher than 50%.Please refer to the Chart above for more information.
 
-### Chart2
+
 ![Outcomes_vs_Goals](https://github.com/KANIKOLIJI/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 * Also in the chart below we can see that in summer months there is a higher chance of being successful and getting the target goal. As it is shown in the chart, in Dec we have the lowest success rate, so it is better to plan the campaign in Feb to Sep months. There are not so many cancelled campaigns, but if we can turn those canceled campaigns to successful ones, we are definitely going to have higher rates of success, but we need more information on the cancellation reasons.
 ![Theater_Outcomes_vs_Launch](https://github.com/KANIKOLIJI/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
